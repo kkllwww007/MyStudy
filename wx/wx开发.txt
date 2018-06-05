@@ -1,0 +1,6 @@
+https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx7b58c35abd162e41&secret=dda6e7fcf5797a37ed4964b906f1d704
+
+{
+    "access_token": "10_HJGQUsMLc8e1PYO5-hFSqIe4IC47moWePoCxwr0VlzqCJ59hdiaOIeQq1PMU8HX5YkfYxS6RiAOZFwhc6uWAK6zfu4rxHCRiNwIBxkkPidP-lzg65WskocCMJaRm8sTJ19xC4at58lpVBXDNBXMdADAFBQ", 
+    "expires_in": 7200
+}
